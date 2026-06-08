@@ -1,1 +1,4 @@
 .idea
+.conda/
+.miniforge/
+Miniforge3-*.sh
